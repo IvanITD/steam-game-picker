@@ -17,7 +17,7 @@ Not your most-played title. Not random. A smart suggestion based on mood, time, 
 
 <br />
 
-[Features](#-features) · [Quick start](#-quick-start) · [Steam setup](#-connect-your-steam-library) · [How it picks](#-how-picking-works) · [Deploy](#-deploy)
+[Features](#-features) · [Quick start](#-quick-start) · [Steam setup](#-connect-your-steam-library) · [How it picks](#-how-picking-works) · [Deploy](#-deploy) · [**Live demo**](https://steam-game-picker-xi.vercel.app/)
 
 </div>
 
@@ -116,7 +116,9 @@ Every pick includes a reason, e.g. *“You put 57 hours into this but haven't pl
 
 ## ☁️ Deploy
 
-Works on [Vercel](https://vercel.com) with no environment variables.
+**Live app:** [https://steam-game-picker-xi.vercel.app/](https://steam-game-picker-xi.vercel.app/)
+
+Works on [Vercel](https://vercel.com) with no environment variables. Every push to `main` redeploys.
 
 1. Push the repo (private is recommended if this is just for you).
 2. **Add New Project** → import the repo → Deploy.

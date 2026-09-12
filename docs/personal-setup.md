@@ -75,7 +75,7 @@ Or: GitHub → repo → **Settings** → **General** → **Danger Zone** → **C
 2. **Add New Project** → import `steam-game-picker`
 3. Framework: **Next.js** (auto-detected)
 4. Deploy — no environment variables required for basic use
-5. Your URL: `https://steam-game-picker-xxx.vercel.app`
+5. Your URL: [https://steam-game-picker-xi.vercel.app/](https://steam-game-picker-xi.vercel.app/)
 
 Optional: Settings → Deployment Protection → **Vercel Authentication** so only you can open it.
 
